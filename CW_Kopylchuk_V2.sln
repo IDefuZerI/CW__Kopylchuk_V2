@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW_Kopylchuk_V2", "CW_Kopylchuk_V2\CW_Kopylchuk_V2.csproj", "{C124F969-E8FB-4A3D-9543-9CEDE226AD0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{99785178-F9E4-4221-82AB-7FC2C5567B58}"
+	ProjectSection(SolutionItems) = preProject
+		CW_Kopylchuk_V2\PublishingDB.mdf = CW_Kopylchuk_V2\PublishingDB.mdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C124F969-E8FB-4A3D-9543-9CEDE226AD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C124F969-E8FB-4A3D-9543-9CEDE226AD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C124F969-E8FB-4A3D-9543-9CEDE226AD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C124F969-E8FB-4A3D-9543-9CEDE226AD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE437C9-38CD-489F-85B7-7C77AC06804D}
+	EndGlobalSection
+EndGlobal
